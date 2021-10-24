@@ -30,3 +30,4 @@ Individuals who have an official role in one of the CNCF TAGs
 
 ## CNCF Projects
 Individuals who have an official role in one of the CNCF projects (reviewer, approval, owners...)
+- name, project, role
