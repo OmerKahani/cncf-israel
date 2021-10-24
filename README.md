@@ -17,3 +17,13 @@ Companies listed at https://landscape.cncf.io/card-mode?enduser=yes
 Individuales listed at https://www.cncf.io/people/ambassadors/
 - name
 
+## CNCF White Paper Contribution
+Individuals who contributed to a white paper
+- name, white paper link
+
+## CNCF TAG
+Individuals who have an official role in one of the CNCF TAGs
+- name, TAG name, role
+
+## CNCF Projects
+Individuals who have an official role in one of the CNCF projects (reviewer, approval, owners...)
