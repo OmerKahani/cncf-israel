@@ -1,4 +1,4 @@
-# cncf-israel
+# CNCF-Israel
 Israeli companies use and contribute in many ways to the CNCF community.
 This repo would echo these contributions by having a list of them.
 
